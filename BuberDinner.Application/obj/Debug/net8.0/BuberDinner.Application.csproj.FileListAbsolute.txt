@@ -1,0 +1,15 @@
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Application.deps.json
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Application.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Application.pdb
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.AssemblyInfoInputs.cache
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.AssemblyInfo.cs
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.csproj.CoreCompileInputs.cache
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/refint/BuberDinner.Application.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.pdb
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/ref/BuberDinner.Application.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BubberDinner.Domain.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BubberDinner.Domain.pdb
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.csproj.AssemblyReference.cache
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDin.E7CA8231.Up2Date

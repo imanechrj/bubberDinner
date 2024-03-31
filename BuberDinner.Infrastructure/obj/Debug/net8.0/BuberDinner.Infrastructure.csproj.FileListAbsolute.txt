@@ -1,0 +1,17 @@
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Infrastructure.deps.json
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Infrastructure.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Infrastructure.pdb
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.AssemblyInfo.cs
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/refint/BuberDinner.Infrastructure.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.pdb
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/ref/BuberDinner.Infrastructure.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BubberDinner.Domain.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Application.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Application.pdb
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BubberDinner.Domain.pdb
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDin.DE1B2DD7.Up2Date

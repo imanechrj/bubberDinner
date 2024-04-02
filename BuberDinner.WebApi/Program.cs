@@ -1,4 +1,6 @@
 ﻿
+using BuberDinner.Application.Services.Authentication;
+
 namespace BuberDinner.WebApi;
 
 public class Program
@@ -7,6 +9,7 @@ public class Program
     {
         var builder = WebApplication.CreateBuilder(args);
         {
+            builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
             builder.Services.AddControllers();
 
         }

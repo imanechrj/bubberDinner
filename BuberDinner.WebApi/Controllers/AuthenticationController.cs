@@ -1,4 +1,5 @@
 using System.Reflection.Metadata.Ecma335;
+using BuberDinner.Application.Services.Authentication;
 using BuberDinner.Contracts.Authentication;
 using Microsoft.AspNetCore.Mvc;
 
@@ -6,19 +7,31 @@ namespace BuberDinner.WebApi.Controllers;
 
 [ApiController]
 [Route("auth")]
-public class AuthenticationController : Controller
+public class AuthenticationController : ControllerBase
 {
+    private readonly IAuthenticationService? _authenticationService;
+
+    public AuthenticationController(IAuthenticationService authenticationService)
+    {
+        _authenticationService = authenticationService;
+    }
+
     [HttpPost("register")]
     public IActionResult Register(RegisterRequest request)
     {
 
-        AuthenticationResponse response = new AuthenticationResponse
-        (
+        var authResult = _authenticationService.Register(
+            request.FirstName,
+            request.LastName,
+            request.Email,
+            request.Password);
 
-            Id : Guid.NewGuid(),
-            FirstName : request.FirstName,
-            LastName : request.LastName,
-            Email : request.Email
+        var response = new AuthenticationResponse(
+            authResult.Id,
+            authResult.FirstName,
+            authResult.LastName,
+            authResult.Email,
+            authResult.Token
         );
 
         return Ok(response);
@@ -27,6 +40,17 @@ public class AuthenticationController : Controller
     [HttpPost("login")]
     public IActionResult Login(LoginRequest request)
     {
-        return Ok(request);
+        var authResult = _authenticationService.Login(
+            request.Email,
+            request.Password);
+
+        var response = new AuthenticationResponse(
+            authResult.Id,
+            authResult.FirstName,
+            authResult.LastName,
+            authResult.Email,
+            authResult.Token
+        );
+        return Ok(response);
     }
 }

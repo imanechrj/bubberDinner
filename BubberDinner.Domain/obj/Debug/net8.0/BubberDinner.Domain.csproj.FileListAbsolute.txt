@@ -9,3 +9,4 @@
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BubberDinner.Domain/obj/Debug/net8.0/refint/BubberDinner.Domain.dll
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BubberDinner.Domain/obj/Debug/net8.0/BubberDinner.Domain.pdb
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BubberDinner.Domain/obj/Debug/net8.0/ref/BubberDinner.Domain.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BubberDinner.Domain/obj/Debug/net8.0/BubberDinner.Domain.sourcelink.json

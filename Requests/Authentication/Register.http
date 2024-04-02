@@ -1,0 +1,9 @@
+POST  https://localhost:7148/auth/register HTTP/1.1
+content-type: application/json
+
+    {
+        "FirstName" : "Imane",
+        "LastName" : "Cherraj",
+        "Email" : "cherrajimane@icloud.com",
+        "Password" : "helloworld"
+    }

@@ -15,3 +15,4 @@
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BubberDinner.Domain.pdb
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDin.DE1B2DD7.Up2Date
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.sourcelink.json

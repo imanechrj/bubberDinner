@@ -11,7 +11,17 @@ public class AuthenticationController : Controller
     [HttpPost("register")]
     public IActionResult Register(RegisterRequest request)
     {
-        return Ok(request);
+
+        AuthenticationResponse response = new AuthenticationResponse
+        (
+
+            Id : Guid.NewGuid(),
+            FirstName : request.FirstName,
+            LastName : request.LastName,
+            Email : request.Email
+        );
+
+        return Ok(response);
     }
 
     [HttpPost("login")]

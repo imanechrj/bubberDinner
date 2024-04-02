@@ -6,13 +6,25 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuberDinner.WebApi/Controllers/AuthenticationController.cs">
+    <Files>
+      <File FileName="BuberDinner.WebApi/Controllers/AuthenticationController.cs" Line="23" Column="1" />
+      <File FileName="BuberDinner.Contracts/Authentication/Response/AuthenticationResponse.cs" Line="9" Column="3" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BuberDinner" expanded="True">
-            <Node name="BuberDinner.WebApi" expanded="True">
-              <Node name="Controllers" expanded="True" />
+            <Node name="BuberDinner.Contracts" expanded="True">
+              <Node name="Authentication" expanded="True">
+                <Node name="Request" expanded="True" />
+                <Node name="Response" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="BuberDinner.WebApi">
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthenticationController.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

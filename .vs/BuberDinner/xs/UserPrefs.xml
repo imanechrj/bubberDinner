@@ -1,20 +1,24 @@
 ﻿<Properties StartupConfiguration="{638BE5E3-DDA5-499F-95C7-79FAFE047D41}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.BuberDinner.WebApi PreferredExecutionTarget="/Applications/Arc.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BuberDinner.WebApi/Controllers/AuthenticationController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuberDinner.Application/DependencyInjection.cs">
     <Files>
       <File FileName="BuberDinner.WebApi/Controllers/AuthenticationController.cs" Line="23" Column="1" />
-      <File FileName="BuberDinner.Contracts/Authentication/Response/AuthenticationResponse.cs" Line="9" Column="3" />
+      <File FileName="BuberDinner.Contracts/Authentication/Response/AuthenticationResponse.cs" />
+      <File FileName="BuberDinner.Application/DependencyInjection.cs" Line="9" Column="1" />
+      <File FileName="BuberDinner.Application/BuberDinner.Application.csproj" Line="1" Column="34" />
+      <File FileName="BubberDinner.Domain/BubberDinner.Domain.csproj" Line="1" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BuberDinner" expanded="True">
+            <Node name="BuberDinner.Application">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Authentication" expanded="True" />
+              </Node>
+              <Node name="DependencyInjection.cs" selected="True" />
+            </Node>
             <Node name="BuberDinner.Contracts" expanded="True">
               <Node name="Authentication" expanded="True">
                 <Node name="Request" expanded="True" />
@@ -22,13 +26,17 @@
               </Node>
             </Node>
             <Node name="BuberDinner.WebApi">
-              <Node name="Controllers" expanded="True">
-                <Node name="AuthenticationController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BuberDinner.WebApi PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

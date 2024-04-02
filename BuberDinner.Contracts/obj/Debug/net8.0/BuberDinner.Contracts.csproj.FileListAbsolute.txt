@@ -5,8 +5,8 @@
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.AssemblyInfoInputs.cache
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.AssemblyInfo.cs
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.sourcelink.json
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.dll
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/refint/BuberDinner.Contracts.dll
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.pdb
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/ref/BuberDinner.Contracts.dll
-/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.sourcelink.json

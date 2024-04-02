@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gaLxfapLyMmXYWPwurVfb6A7ow+v/4Ivcp+s6LCrnLmfKGzujSGkLfJSnHIrovKzEd+/p1gJxqlrRWAkybKqKg==",
+  "dgSpecHash": "q6o5I2izoXzxTRDkbbzdn2FRbprOCADKUfgXOZvTgRVyM8/cyNuLhFJX3ABOlQqlqGYCr66IycqpR9pQ+wykoQ==",
   "success": true,
   "projectFilePath": "/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/imane/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

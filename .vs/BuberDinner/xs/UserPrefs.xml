@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{638BE5E3-DDA5-499F-95C7-79FAFE047D41}|https">
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BuberDinner.Application/DependencyInjection.cs">
     <Files>
@@ -7,10 +8,23 @@
       <File FileName="BuberDinner.Application/DependencyInjection.cs" Line="9" Column="1" />
       <File FileName="BuberDinner.Application/BuberDinner.Application.csproj" Line="1" Column="34" />
       <File FileName="BubberDinner.Domain/BubberDinner.Domain.csproj" Line="1" Column="34" />
+=======
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BuberDinner.WebApi PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuberDinner.Application/DependencyInjection.cs">
+    <Files>
+      <File FileName="BuberDinner.WebApi/Controllers/AuthenticationController.cs" />
+      <File FileName="BuberDinner.Contracts/Authentication/Response/AuthenticationResponse.cs" />
+      <File FileName="BuberDinner.Application/DependencyInjection.cs" Line="9" Column="1" />
+      <File FileName="BuberDinner.Application/BuberDinner.Application.csproj" />
+      <File FileName="BubberDinner.Domain/BubberDinner.Domain.csproj" />
+>>>>>>> a4ce908 (fix)
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
+<<<<<<< HEAD
           <Node name="BuberDinner" expanded="True">
             <Node name="BuberDinner.Application">
               <Node name="Dependencies" expanded="True" />
@@ -26,6 +40,11 @@
               </Node>
             </Node>
             <Node name="BuberDinner.WebApi">
+=======
+          <Node name="BuberDinner">
+            <Node name="BuberDinner.Infrastructure" selected="True" />
+            <Node name="BuberDinner.WebApi" expanded="True">
+>>>>>>> a4ce908 (fix)
               <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
@@ -33,10 +52,17 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+<<<<<<< HEAD
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.BuberDinner.WebApi PreferredExecutionTarget="/Applications/Arc.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+=======
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+>>>>>>> a4ce908 (fix)
 </Properties>

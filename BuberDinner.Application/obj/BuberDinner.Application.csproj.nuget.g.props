@@ -12,4 +12,10 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/Users/imane/.nuget/packages/" />
   </ItemGroup>
+<<<<<<< HEAD
+=======
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">/Users/imane/.nuget/packages/newtonsoft.json/9.0.1</PkgNewtonsoft_Json>
+  </PropertyGroup>
+>>>>>>> a4ce908 (fix)
 </Project>

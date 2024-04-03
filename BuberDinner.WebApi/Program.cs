@@ -23,6 +23,13 @@ public class Program
         {
             app.UseHttpsRedirection();
 
+<<<<<<< HEAD
+=======
+            app.UseAuthentication();
+
+            app.UseAuthorization();
+
+>>>>>>> a4ce908 (fix)
             app.MapControllers();
 
             app.Run();

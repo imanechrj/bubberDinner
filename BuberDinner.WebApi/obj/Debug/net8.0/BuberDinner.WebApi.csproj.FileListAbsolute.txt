@@ -35,3 +35,11 @@
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.WebApi/obj/Debug/net8.0/BuberDinner.WebApi.pdb
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.WebApi/obj/Debug/net8.0/BuberDinner.WebApi.genruntimeconfig.cache
 /Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.WebApi/obj/Debug/net8.0/ref/BuberDinner.WebApi.dll
+<<<<<<< HEAD
+=======
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.WebApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.WebApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.WebApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.WebApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.WebApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+>>>>>>> a4ce908 (fix)

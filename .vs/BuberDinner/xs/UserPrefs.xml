@@ -1,68 +1,23 @@
 ﻿<Properties StartupConfiguration="{638BE5E3-DDA5-499F-95C7-79FAFE047D41}|https">
-<<<<<<< HEAD
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BuberDinner.Application/DependencyInjection.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../usr/local/share/dotnet/sdk/8.0.201/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
     <Files>
-      <File FileName="BuberDinner.WebApi/Controllers/AuthenticationController.cs" Line="23" Column="1" />
-      <File FileName="BuberDinner.Contracts/Authentication/Response/AuthenticationResponse.cs" />
-      <File FileName="BuberDinner.Application/DependencyInjection.cs" Line="9" Column="1" />
-      <File FileName="BuberDinner.Application/BuberDinner.Application.csproj" Line="1" Column="34" />
-      <File FileName="BubberDinner.Domain/BubberDinner.Domain.csproj" Line="1" Column="34" />
-=======
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.BuberDinner.WebApi PreferredExecutionTarget="/Applications/Arc.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BuberDinner.Application/DependencyInjection.cs">
-    <Files>
-      <File FileName="BuberDinner.WebApi/Controllers/AuthenticationController.cs" />
-      <File FileName="BuberDinner.Contracts/Authentication/Response/AuthenticationResponse.cs" />
-      <File FileName="BuberDinner.Application/DependencyInjection.cs" Line="9" Column="1" />
-      <File FileName="BuberDinner.Application/BuberDinner.Application.csproj" />
-      <File FileName="BubberDinner.Domain/BubberDinner.Domain.csproj" />
->>>>>>> a4ce908 (fix)
+      <File FileName="../../../../../../../usr/local/share/dotnet/sdk/8.0.201/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="464" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-<<<<<<< HEAD
           <Node name="BuberDinner" expanded="True">
-            <Node name="BuberDinner.Application">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Services" expanded="True">
-                <Node name="Authentication" expanded="True" />
-              </Node>
-              <Node name="DependencyInjection.cs" selected="True" />
-            </Node>
-            <Node name="BuberDinner.Contracts" expanded="True">
-              <Node name="Authentication" expanded="True">
-                <Node name="Request" expanded="True" />
-                <Node name="Response" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="BuberDinner.WebApi">
-=======
-          <Node name="BuberDinner">
-            <Node name="BuberDinner.Infrastructure" selected="True" />
-            <Node name="BuberDinner.WebApi" expanded="True">
->>>>>>> a4ce908 (fix)
-              <Node name="Controllers" expanded="True" />
-            </Node>
+            <Node name="BuberDinner.Application" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-<<<<<<< HEAD
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BuberDinner.WebApi PreferredExecutionTarget="/Applications/Arc.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-=======
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BuberDinner.WebApi PreferredExecutionTarget="/Applications/Arc.app" />
   <MultiItemStartupConfigurations />
->>>>>>> a4ce908 (fix)
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

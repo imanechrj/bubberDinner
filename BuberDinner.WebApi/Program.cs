@@ -1,7 +1,5 @@
 ﻿
-using BuberDinner.Application.Services.Authentication;
-using BubberDinner.Application;
-using BubberDinner.Infrastructure;
+using BuberDinner.Application;
 
 namespace BuberDinner.WebApi;
 
@@ -22,16 +20,7 @@ public class Program
         var app = builder.Build();
         {
             app.UseHttpsRedirection();
-
-<<<<<<< HEAD
-=======
-            app.UseAuthentication();
-
-            app.UseAuthorization();
-
->>>>>>> a4ce908 (fix)
             app.MapControllers();
-
             app.Run();
         }
     }

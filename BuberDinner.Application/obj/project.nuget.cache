@@ -1,14 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "C9WzPdLC2tB97upDX4eR+Icdx6KZFIfevf3sjNMGJS/r3txQrt6V8TlhTPMdRYvpWXSgYbR/1UK72DUVc4vAgA==",
-  "success": true,
-  "projectFilePath": "/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
-  "expectedPackageFiles": [
-    "/Users/imane/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
-  ],
-  "logs": []
-=======
   "dgSpecHash": "YZBiQTukB+pAvTD2GiPLg1gwgTZf168ll/5Ya+7ikFoGkljdRdCNesUQFcoh8LEVd9/JGieGDiPCYsonwr7bgQ==",
   "success": true,
   "projectFilePath": "/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
@@ -93,5 +84,4 @@
       ]
     }
   ]
->>>>>>> a4ce908 (fix)
 }

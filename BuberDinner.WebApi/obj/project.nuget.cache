@@ -1,12 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "vUF/siNMATjATXAX9/V2XVN48+Gs5beleFSlzVsRcjViJMYlEvZjrrXFIseueuNwmc25rgflzWgW5eXxV65Fbw==",
-  "success": true,
-  "projectFilePath": "/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.WebApi/BuberDinner.WebApi.csproj",
-  "expectedPackageFiles": [
-    "/Users/imane/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
-=======
   "dgSpecHash": "Xk0aMf4B3oK6+2UiIDUTmmNWBCwY5jaUxuX2WaGjtZZy6iVeVv3Ltfsa1LcN4neHrf9uaDN8ir1FIwq4clDB+A==",
   "success": true,
   "projectFilePath": "/Users/imane/Desktop/COURS 23_24/CDA/BuberDinner/BuberDinner/BuberDinner.WebApi/BuberDinner.WebApi.csproj",
@@ -17,7 +10,6 @@
     "/Users/imane/.nuget/packages/microsoft.identitymodel.logging/7.5.0/microsoft.identitymodel.logging.7.5.0.nupkg.sha512",
     "/Users/imane/.nuget/packages/microsoft.identitymodel.tokens/7.5.0/microsoft.identitymodel.tokens.7.5.0.nupkg.sha512",
     "/Users/imane/.nuget/packages/system.identitymodel.tokens.jwt/7.5.0/system.identitymodel.tokens.jwt.7.5.0.nupkg.sha512"
->>>>>>> a4ce908 (fix)
   ],
   "logs": []
 }

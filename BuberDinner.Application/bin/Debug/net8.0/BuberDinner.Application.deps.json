@@ -9,19 +9,13 @@
       "BuberDinner.Application/1.0.0": {
         "dependencies": {
           "BubberDinner.Domain": "1.0.0",
-<<<<<<< HEAD
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
-=======
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1",
           "System.IdentityModel.Tokens.Jwt": "5.0.0"
->>>>>>> a4ce908 (fix)
         },
         "runtime": {
           "BuberDinner.Application.dll": {}
         }
       },
-<<<<<<< HEAD
-=======
       "Microsoft.CSharp/4.0.1": {
         "dependencies": {
           "System.Collections": "4.0.11",
@@ -42,7 +36,6 @@
           "System.Threading": "4.0.11"
         }
       },
->>>>>>> a4ce908 (fix)
       "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -51,8 +44,6 @@
           }
         }
       },
-<<<<<<< HEAD
-=======
       "Microsoft.IdentityModel.Logging/1.0.0": {
         "dependencies": {
           "System.Diagnostics.Tracing": "4.1.0",
@@ -633,7 +624,6 @@
           "System.Xml.ReaderWriter": "4.0.11"
         }
       },
->>>>>>> a4ce908 (fix)
       "BubberDinner.Domain/1.0.0": {
         "runtime": {
           "BubberDinner.Domain.dll": {}
@@ -647,8 +637,6 @@
       "serviceable": false,
       "sha512": ""
     },
-<<<<<<< HEAD
-=======
     "Microsoft.CSharp/4.0.1": {
       "type": "package",
       "serviceable": true,
@@ -656,7 +644,6 @@
       "path": "microsoft.csharp/4.0.1",
       "hashPath": "microsoft.csharp.4.0.1.nupkg.sha512"
     },
->>>>>>> a4ce908 (fix)
     "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
       "type": "package",
       "serviceable": true,
@@ -664,8 +651,6 @@
       "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.1",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
     },
-<<<<<<< HEAD
-=======
     "Microsoft.IdentityModel.Logging/1.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1051,7 +1036,6 @@
       "path": "system.xml.xdocument/4.0.11",
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
     },
->>>>>>> a4ce908 (fix)
     "BubberDinner.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,

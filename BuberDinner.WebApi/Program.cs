@@ -1,5 +1,5 @@
-﻿
-using BuberDinner.Application;
+﻿using BubberDinner.Application;
+using BubberDinner.Infrastructure;
 
 namespace BuberDinner.WebApi;
 

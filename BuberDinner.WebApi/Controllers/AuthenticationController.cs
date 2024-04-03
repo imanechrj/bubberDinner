@@ -9,11 +9,7 @@ namespace BuberDinner.WebApi.Controllers;
 [Route("auth")]
 public class AuthenticationController : ControllerBase
 {
-<<<<<<< HEAD
-    private readonly IAuthenticationService? _authenticationService;
-=======
     private readonly IAuthenticationService _authenticationService;
->>>>>>> a4ce908 (fix)
 
     public AuthenticationController(IAuthenticationService authenticationService)
     {

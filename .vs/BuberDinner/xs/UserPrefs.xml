@@ -1,13 +1,17 @@
 ﻿<Properties StartupConfiguration="{638BE5E3-DDA5-499F-95C7-79FAFE047D41}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../usr/local/share/dotnet/sdk/8.0.201/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuberDinner.WebApi/Program.cs">
     <Files>
       <File FileName="../../../../../../../usr/local/share/dotnet/sdk/8.0.201/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="464" Column="17" />
+      <File FileName="BuberDinner.WebApi/Program.cs" Line="14" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BuberDinner" expanded="True">
-            <Node name="BuberDinner.Application" selected="True" />
+            <Node name="BuberDinner.Infrastructure" expanded="True" />
+            <Node name="BuberDinner.WebApi">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

@@ -1,22 +1,9 @@
-<<<<<<< HEAD
-=======
-using BuberDinner.Application.Common.Interfaces.Authentication;
 
->>>>>>> a4ce908 (fix)
+using BuberDinner.Application.Common.Interfaces.Authentication;
 namespace BuberDinner.Application.Services.Authentication;
 
 public class AuthenticationService : IAuthenticationService
 {
-<<<<<<< HEAD
-    public AuthenticationResult Register(string firstName, string lastName, string email, string password)
-    {
-        return new AuthenticationResult(
-            Guid.NewGuid(),
-            firstName,
-            lastName,
-            email,
-            "token");
-=======
     private readonly IJwtTokenGenerator _jwtTokenGenerator;
     public AuthenticationService(IJwtTokenGenerator jwtTokenGenerator)
     {
@@ -35,7 +22,6 @@ public class AuthenticationService : IAuthenticationService
             lastName,
             email,
             token);
->>>>>>> a4ce908 (fix)
     }
 
     public AuthenticationResult Login(string email, string password)

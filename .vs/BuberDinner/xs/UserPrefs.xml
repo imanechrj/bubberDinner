@@ -1,24 +1,29 @@
 ﻿<Properties StartupConfiguration="{638BE5E3-DDA5-499F-95C7-79FAFE047D41}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BuberDinner.WebApi/Program.cs">
-    <Files>
-      <File FileName="../../../../../../../usr/local/share/dotnet/sdk/8.0.201/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" />
-      <File FileName="BuberDinner.WebApi/Program.cs" Line="14" Column="59" />
-    </Files>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BuberDinner.WebApi PreferredExecutionTarget="/Applications/Arc.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BuberDinner" expanded="True">
-            <Node name="BuberDinner.Infrastructure" selected="True" />
+            <Node name="BuberDinner.Application" expanded="True">
+              <Node name="Common" expanded="True">
+                <Node name="Interfaces" expanded="True">
+                  <Node name="Authentication" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="BuberDinner.WebApi" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.BuberDinner.WebApi PreferredExecutionTarget="/Applications/Arc.app" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

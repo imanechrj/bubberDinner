@@ -11,7 +11,7 @@ public class Program
         {
             builder.Services
                 .AddApplication()
-                .AddInfrastructure();
+                .AddInfrastructure(builder.Configuration);
 
             builder.Services.AddControllers();
 
